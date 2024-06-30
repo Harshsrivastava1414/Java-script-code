@@ -8,3 +8,6 @@ let user_login = false // it is boolean datatype
 
 console.log(typeof phone);
 // O/P is Number
+
+// read documentations from tc39.es(it is standard documentation)
+//  and MDN is esay to understand so use MDN for learning
